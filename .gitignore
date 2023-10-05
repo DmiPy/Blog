@@ -1,0 +1,42 @@
+# Виртуальная среда Python
+venv/
+
+# Файлы Python bytecode
+*.pyc
+*.pyo
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Среды разработки
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Логи и временные файлы
+logs/
+*.log
+*.tmp
+
+# Локальные настройки
+*.config
+
+# Зависимости и внешние библиотеки
+node_modules/
+*.lock
+
+# Файлы настроек и конфиденциальные данные
+*.env
+*.ini
+*.config
+
+# Временные файлы, созданные редакторами
+*.swp
+*.swo
+*.swn
+
+# Кэш и временные файлы
+__pycache__/
+.cache/
